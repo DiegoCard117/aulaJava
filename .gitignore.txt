@@ -1,0 +1,33 @@
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+
+# Configuração de IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Dependências gerenciadas pelo Maven/Gradle
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+dependency-reduced-pom.xml
+build/
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Arquivos de log e temporários
+*.log
+*.tmp
